@@ -26,3 +26,9 @@ The system is designed with high availability and security best practices:
 2. Initialize Terraform: `terraform init`
 3. Review execution plan: `terraform plan`
 4. Deploy resources: `terraform apply -auto-approve`# -Automated-AWS-Healthcare-Infrastructure
+  
+## Screenshorts
+https://github.com/cit-24-01-0532-cyber/-Automated-AWS-Healthcare-Infrastructure/blob/main/Screenshot%202026-05-28%20175043.png
+https://github.com/cit-24-01-0532-cyber/-Automated-AWS-Healthcare-Infrastructure/blob/main/Screenshot%202026-05-28%20163552.png
+https://github.com/cit-24-01-0532-cyber/-Automated-AWS-Healthcare-Infrastructure/blob/main/Screenshot%202026-05-28%20180847.png
+https://github.com/cit-24-01-0532-cyber/-Automated-AWS-Healthcare-Infrastructure/blob/main/screenshort.png
